@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-indicator"
+description = "An extension (custom node) for Comfy Desktop that adds a color indicator when generation is complete."
+version = "1.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/Lariany-Yana/ComfyUI-Indicator"
+#  Used by Comfy Registry https://registry.comfy.org
+
+[tool.comfy]
+PublisherId = "larianyana"
+DisplayName = "ComfyUI-Indicator"
+Icon = ""
+Banner = ""
